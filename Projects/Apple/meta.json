@@ -1,0 +1,26 @@
+{
+  "title": "Apple",
+  "prompt": "Nutritional Facts about Apple and the Famous Saying. Short Video.",
+  "scenes": [
+    {
+      "title": "The Origin of An Apple a Day",
+      "duration": 15,
+      "status": false
+    },
+    {
+      "title": "Key Nutritional Components of Apples",
+      "duration": 20,
+      "status": false
+    },
+    {
+      "title": "Health Benefits and Scientific Reality",
+      "duration": 20,
+      "status": false
+    },
+    {
+      "title": "Conclusion and Balanced Diet Perspective",
+      "duration": 15,
+      "status": false
+    }
+  ]
+}

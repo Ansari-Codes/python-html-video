@@ -1,0 +1,77 @@
+{
+    "apple": {
+        "type": "file", 
+        "ext": "svg", 
+        "path": "C:/Users/Paradise Computers/Desktop/AbuBakr/Automation/Projects/Apple/Assets/apple.svg",
+        "description": "A complete apple in svg format 800x800px"
+    },
+    "dna": {
+        "type": "file", 
+        "ext": "svg", 
+        "path": "C:/Users/Paradise Computers/Desktop/AbuBakr/Automation/Projects/Apple/Assets/dna.svg",
+        "description": "A vector illustration of a double-helix DNA strand structure"
+    },
+    "doctor": {
+        "type": "file", 
+        "ext": "svg", 
+        "path": "C:/Users/Paradise Computers/Desktop/AbuBakr/Automation/Projects/Apple/Assets/doctor.svg",
+        "description": "A vector graphic representation of a medical doctor professional"
+    },
+    "molecule": {
+        "type": "file", 
+        "ext": "svg", 
+        "path": "C:/Users/Paradise Computers/Desktop/AbuBakr/Automation/Projects/Apple/Assets/molecule.svg",
+        "description": "An SVG diagram illustrating connected chemical atoms in a molecule network"
+    },
+    "protein": {
+        "type": "file", 
+        "ext": "svg", 
+        "path": "C:/Users/Paradise Computers/Desktop/AbuBakr/Automation/Projects/Apple/Assets/protein-realistic-2d.svg",
+        "description": "A realistic two-dimensional vector asset of a complex protein macromolecule"
+    },
+    "heart": {
+        "type": "emoji", 
+        "emoji": "💗",
+        "description": "A pink growing heart emoji representing vitality, emotion, and healthcare"
+    },
+    "brain": {
+        "type": "emoji", 
+        "emoji": "🧠",
+        "description": "A human brain emoji indicating intelligence, neurology, or cognitive thinking"
+    },
+    "power": {
+        "type": "emoji", 
+        "emoji": "⚡",
+        "description": "A high voltage lightning bolt emoji representing power, energy, or electrical charge"
+    },
+    "tree": {
+        "type": "emoji", 
+        "emoji": "🌳",
+        "description": "A deciduous tree emoji symbolizing growth, nature, and organic life"
+    },
+    "leaf": {
+        "type": "emoji", 
+        "emoji": "🍃",
+        "description": "A fluttering green leaf emoji representing wellness, freshness, and nature"
+    },
+    "apple-emoji": {
+        "type": "emoji", 
+        "emoji": "🍎",
+        "description": "A classic red apple emoji used for health, education, or nutrition themes"
+    },
+    "dna-emoji": {
+        "type": "emoji", 
+        "emoji": "🧬",
+        "description": "A DNA strand emoji representing biology, genetics, and scientific research"
+    },
+    "doctor-emoji": {
+        "type": "emoji", 
+        "emoji": "👨‍⚕️",
+        "description": "A male health worker emoji representing medical professionals and healthcare services"
+    },
+    "lab-emoji": {
+        "type": "emoji", 
+        "emoji": "🧪",
+        "description": "A chemistry test tube emoji filled with green fluid, symbolizing lab research"
+    }
+}
